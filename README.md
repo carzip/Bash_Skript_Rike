@@ -3,3 +3,5 @@
 - Author: Rike Carpantier
 
 Hier liegt mein Bash-Skript und das Pad aus Modul 4
+
+Anne sendet viele Grüße an Rike! 🥳
