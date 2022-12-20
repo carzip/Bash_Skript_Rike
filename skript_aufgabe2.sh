@@ -17,4 +17,4 @@ echo "Differences in comparison with the sample solution: (in the case of a miss
 diff 2022-11-25-Dates_and_ISSNs_RC.tsv 2022-11-25-Dates_and_ISSNs.tsv
 
 # clean up
-rm erg_part1.tsv erg_part2.tsv erg_dirty.tsv
+rm erg_dirty.tsv
